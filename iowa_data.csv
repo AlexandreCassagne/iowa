@@ -47,7 +47,7 @@ Adair,4SE ORIENT,Bloomberg,0,0,0.0
 Adair,4SE ORIENT,Buttigieg,6,6,0.1569
 Adair,4SE ORIENT,Delaney,0,0,0.0
 Adair,4SE ORIENT,Gabbard,0,0,0.0
-Adair,4SE ORIENT,Klobuchar,6,6,0.1569
+Adair,4SE ORIENT,Klobuchar,6,8,0.1569
 Adair,4SE ORIENT,Other,0,0,0.0
 Adair,4SE ORIENT,Patrick,0,0,0.0
 Adair,4SE ORIENT,Sanders,6,6,0.0784
@@ -1202,7 +1202,7 @@ Black Hawk,WL 1-1,Sanders,38,45,0.606
 Black Hawk,WL 1-1,Steyer,3,0,0.0
 Black Hawk,WL 1-1,Uncommitted,0,0,0.0
 Black Hawk,WL 1-1,Warren,20,28,0.404
-Black Hawk,WL 1-1,Yang,0,0,0.0
+Black Hawk,WL 1-1,Yang,18,0,0.0
 Black Hawk,WL 1-2,Bennet,0,0,0.0
 Black Hawk,WL 1-2,Biden,22,23,0.202
 Black Hawk,WL 1-2,Bloomberg,0,0,0.0
@@ -2088,7 +2088,7 @@ Buchanan,Independence 1st Ward,Yang,6,0,0.0
 Buchanan,Independence 2nd Ward,Bennet,0,0,0.0
 Buchanan,Independence 2nd Ward,Biden,19,22,0.4105
 Buchanan,Independence 2nd Ward,Bloomberg,0,0,0.0
-Buchanan,Independence 2nd Ward,Buttigieg,12,0,0.0
+Buchanan,Independence 2nd Ward,Buttigieg,12,12,0.1368
 Buchanan,Independence 2nd Ward,Delaney,0,0,0.0
 Buchanan,Independence 2nd Ward,Gabbard,0,0,0.0
 Buchanan,Independence 2nd Ward,Klobuchar,10,10,0.1368
@@ -2356,7 +2356,7 @@ Buena Vista,TRUESDALE WASHINGTON GRANT,Biden,6,8,0.2
 Buena Vista,TRUESDALE WASHINGTON GRANT,Bloomberg,0,0,0.0
 Buena Vista,TRUESDALE WASHINGTON GRANT,Buttigieg,3,2,0.0
 Buena Vista,TRUESDALE WASHINGTON GRANT,Delaney,0,0,0.0
-Buena Vista,TRUESDALE WASHINGTON GRANT,Gabbard,0,0,0.0
+Buena Vista,TRUESDALE WASHINGTON GRANT,Gabbard,1,0,0.0
 Buena Vista,TRUESDALE WASHINGTON GRANT,Klobuchar,4,6,0.2
 Buena Vista,TRUESDALE WASHINGTON GRANT,Other,0,0,0.0
 Buena Vista,TRUESDALE WASHINGTON GRANT,Patrick,0,0,0.0
@@ -2364,7 +2364,7 @@ Buena Vista,TRUESDALE WASHINGTON GRANT,Sanders,5,3,0.0
 Buena Vista,TRUESDALE WASHINGTON GRANT,Steyer,0,0,0.0
 Buena Vista,TRUESDALE WASHINGTON GRANT,Uncommitted,0,0,0.0
 Buena Vista,TRUESDALE WASHINGTON GRANT,Warren,3,3,0.0
-Buena Vista,TRUESDALE WASHINGTON GRANT,Yang,0,0,0.0
+Buena Vista,TRUESDALE WASHINGTON GRANT,Yang,2,2,0.0
 Butler,1-GR,Bennet,0,0,0.0
 Butler,1-GR,Biden,15,15,0.2333
 Butler,1-GR,Bloomberg,0,0,0.0
@@ -3906,9 +3906,9 @@ Cedar,INLAND,Uncommitted,0,0,0.0
 Cedar,INLAND,Warren,2,0,0.0
 Cedar,INLAND,Yang,0,0,0.0
 Cedar,LINN/PIONEER,Bennet,1,0,0.0
-Cedar,LINN/PIONEER,Biden,21,21,0.3429
+Cedar,LINN/PIONEER,Biden,21,22,0.3429
 Cedar,LINN/PIONEER,Bloomberg,0,0,0.0
-Cedar,LINN/PIONEER,Buttigieg,16,16,0.3429
+Cedar,LINN/PIONEER,Buttigieg,16,17,0.3429
 Cedar,LINN/PIONEER,Delaney,0,0,0.0
 Cedar,LINN/PIONEER,Gabbard,1,0,0.0
 Cedar,LINN/PIONEER,Klobuchar,14,14,0.1714
@@ -3917,7 +3917,7 @@ Cedar,LINN/PIONEER,Patrick,0,0,0.0
 Cedar,LINN/PIONEER,Sanders,13,13,0.1714
 Cedar,LINN/PIONEER,Steyer,3,0,0.0
 Cedar,LINN/PIONEER,Uncommitted,0,0,0.0
-Cedar,LINN/PIONEER,Warren,15,15,0.1714
+Cedar,LINN/PIONEER,Warren,15,16,0.1714
 Cedar,LINN/PIONEER,Yang,0,0,0.0
 Cedar,MASSILLON/SPRINGFIELD,Bennet,0,0,0.0
 Cedar,MASSILLON/SPRINGFIELD,Biden,9,10,0.1714
@@ -4384,7 +4384,7 @@ Cherokee,#2 Cleghorn,Yang,1,0,0.0
 Cherokee,#3 Quimby,Bennet,0,0,0.0
 Cherokee,#3 Quimby,Biden,9,10,0.2182
 Cherokee,#3 Quimby,Bloomberg,0,0,0.0
-Cherokee,#3 Quimby,Buttigieg,6,6,0.1091
+Cherokee,#3 Quimby,Buttigieg,7,7,0.1091
 Cherokee,#3 Quimby,Delaney,0,0,0.0
 Cherokee,#3 Quimby,Gabbard,0,0,0.0
 Cherokee,#3 Quimby,Klobuchar,0,0,0.0
@@ -4392,7 +4392,7 @@ Cherokee,#3 Quimby,Other,0,0,0.0
 Cherokee,#3 Quimby,Patrick,0,0,0.0
 Cherokee,#3 Quimby,Sanders,4,4,0.1091
 Cherokee,#3 Quimby,Steyer,4,4,0.1091
-Cherokee,#3 Quimby,Uncommitted,1,1,0.0
+Cherokee,#3 Quimby,Uncommitted,1,0,0.0
 Cherokee,#3 Quimby,Warren,1,0,0.0
 Cherokee,#3 Quimby,Yang,0,0,0.0
 Cherokee,#4 Cherokee,Bennet,0,0,0.0
@@ -4438,19 +4438,19 @@ Cherokee,#6 Cherokee Ward 2,Uncommitted,0,0,0.0
 Cherokee,#6 Cherokee Ward 2,Warren,0,0,0.0
 Cherokee,#6 Cherokee Ward 2,Yang,0,0,0.0
 Cherokee,#7 Cherokee Ward 3,Bennet,0,0,0.0
-Cherokee,#7 Cherokee Ward 3,Biden,6,8,0.1091
+Cherokee,#7 Cherokee Ward 3,Biden,10,10,0.2182
 Cherokee,#7 Cherokee Ward 3,Bloomberg,0,0,0.0
-Cherokee,#7 Cherokee Ward 3,Buttigieg,8,9,0.2182
+Cherokee,#7 Cherokee Ward 3,Buttigieg,11,12,0.3273
 Cherokee,#7 Cherokee Ward 3,Delaney,0,0,0.0
 Cherokee,#7 Cherokee Ward 3,Gabbard,0,0,0.0
-Cherokee,#7 Cherokee Ward 3,Klobuchar,1,0,0.0
+Cherokee,#7 Cherokee Ward 3,Klobuchar,7,7,0.2182
 Cherokee,#7 Cherokee Ward 3,Other,0,0,0.0
 Cherokee,#7 Cherokee Ward 3,Patrick,0,0,0.0
-Cherokee,#7 Cherokee Ward 3,Sanders,17,19,0.4364
+Cherokee,#7 Cherokee Ward 3,Sanders,9,11,0.3273
 Cherokee,#7 Cherokee Ward 3,Steyer,0,0,0.0
-Cherokee,#7 Cherokee Ward 3,Uncommitted,2,0,0.0
-Cherokee,#7 Cherokee Ward 3,Warren,0,0,0.0
-Cherokee,#7 Cherokee Ward 3,Yang,1,0,0.0
+Cherokee,#7 Cherokee Ward 3,Uncommitted,0,0,0.0
+Cherokee,#7 Cherokee Ward 3,Warren,3,0,0.0
+Cherokee,#7 Cherokee Ward 3,Yang,0,0,0.0
 Chickasaw,Bradford,Bennet,0,0,0.0
 Chickasaw,Bradford,Biden,13,13,0.28
 Chickasaw,Bradford,Bloomberg,0,0,0.0
@@ -5064,7 +5064,7 @@ Clayton,MARION,Other,0,0,0.0
 Clayton,MARION,Patrick,0,0,0.0
 Clayton,MARION,Sanders,0,0,0.0
 Clayton,MARION,Steyer,0,0,0.0
-Clayton,MARION,Uncommitted,0,0,0.0
+Clayton,MARION,Uncommitted,1,1,0.0
 Clayton,MARION,Warren,0,0,0.0
 Clayton,MARION,Yang,0,0,0.0
 Clayton,MENDON,Bennet,0,0,0.0
@@ -5188,11 +5188,11 @@ Clinton,CLINTON 2-1,Gabbard,0,0,0.0
 Clinton,CLINTON 2-1,Klobuchar,9,15,0.2214
 Clinton,CLINTON 2-1,Other,0,0,0.0
 Clinton,CLINTON 2-1,Patrick,0,0,0.0
-Clinton,CLINTON 2-1,Sanders,26,20,0.4429
+Clinton,CLINTON 2-1,Sanders,26,26,0.4429
 Clinton,CLINTON 2-1,Steyer,5,0,0.0
 Clinton,CLINTON 2-1,Uncommitted,1,0,0.0
 Clinton,CLINTON 2-1,Warren,15,20,0.4429
-Clinton,CLINTON 2-1,Yang,8,8,0.0
+Clinton,CLINTON 2-1,Yang,8,0,0.0
 Clinton,CLINTON 2-2,Bennet,0,0,0.0
 Clinton,CLINTON 2-2,Biden,40,47,0.6643
 Clinton,CLINTON 2-2,Bloomberg,0,0,0.0
@@ -7308,19 +7308,19 @@ Dubuque,Dubuque_42,Uncommitted,2,2,0.0
 Dubuque,Dubuque_42,Warren,18,18,0.2667
 Dubuque,Dubuque_42,Yang,0,0,0.0
 Dubuque,Dubuque_43,Bennet,0,0,0.0
-Dubuque,Dubuque_43,Biden,38,38,0.5333
+Dubuque,Dubuque_43,Biden,38,47,0.8
 Dubuque,Dubuque_43,Bloomberg,0,0,0.0
-Dubuque,Dubuque_43,Buttigieg,42,42,0.8
+Dubuque,Dubuque_43,Buttigieg,42,51,0.8
 Dubuque,Dubuque_43,Delaney,0,0,0.0
 Dubuque,Dubuque_43,Gabbard,0,0,0.0
-Dubuque,Dubuque_43,Klobuchar,20,20,0.0
+Dubuque,Dubuque_43,Klobuchar,0,0,0.0
 Dubuque,Dubuque_43,Other,0,0,0.0
 Dubuque,Dubuque_43,Patrick,0,0,0.0
-Dubuque,Dubuque_43,Sanders,23,23,0.5333
-Dubuque,Dubuque_43,Steyer,0,1,0.0
+Dubuque,Dubuque_43,Sanders,23,23,0.2667
+Dubuque,Dubuque_43,Steyer,0,0,0.0
 Dubuque,Dubuque_43,Uncommitted,0,0,0.0
-Dubuque,Dubuque_43,Warren,28,28,0.5333
-Dubuque,Dubuque_43,Yang,1,1,0.0
+Dubuque,Dubuque_43,Warren,28,32,0.5333
+Dubuque,Dubuque_43,Yang,0,0,0.0
 Dubuque,Dubuque_44,Bennet,0,0,0.0
 Dubuque,Dubuque_44,Biden,2,2,0.0
 Dubuque,Dubuque_44,Bloomberg,0,0,0.0
@@ -7513,9 +7513,9 @@ Fayette,AUBURN TWP,Klobuchar,2,3,0.0
 Fayette,AUBURN TWP,Other,0,0,0.0
 Fayette,AUBURN TWP,Patrick,0,0,0.0
 Fayette,AUBURN TWP,Sanders,1,0,0.0
-Fayette,AUBURN TWP,Steyer,0,0,0.12
+Fayette,AUBURN TWP,Steyer,0,0,0.0
 Fayette,AUBURN TWP,Uncommitted,0,0,0.0
-Fayette,AUBURN TWP,Warren,2,3,0.0
+Fayette,AUBURN TWP,Warren,2,3,0.12
 Fayette,AUBURN TWP,Yang,0,0,0.0
 Fayette,BANKS-FREMONT TWP,Bennet,0,0,0.0
 Fayette,BANKS-FREMONT TWP,Biden,6,10,0.12
@@ -7532,18 +7532,18 @@ Fayette,BANKS-FREMONT TWP,Uncommitted,0,0,0.0
 Fayette,BANKS-FREMONT TWP,Warren,4,4,0.12
 Fayette,BANKS-FREMONT TWP,Yang,2,0,0.0
 Fayette,BETHEL-WINDSOR TWP,Bennet,0,0,0.0
-Fayette,BETHEL-WINDSOR TWP,Biden,6,6,0.12
+Fayette,BETHEL-WINDSOR TWP,Biden,5,6,0.12
 Fayette,BETHEL-WINDSOR TWP,Bloomberg,0,0,0.0
-Fayette,BETHEL-WINDSOR TWP,Buttigieg,12,12,0.12
+Fayette,BETHEL-WINDSOR TWP,Buttigieg,10,12,0.12
 Fayette,BETHEL-WINDSOR TWP,Delaney,0,0,0.0
 Fayette,BETHEL-WINDSOR TWP,Gabbard,0,0,0.0
 Fayette,BETHEL-WINDSOR TWP,Klobuchar,0,0,0.0
 Fayette,BETHEL-WINDSOR TWP,Other,0,0,0.0
 Fayette,BETHEL-WINDSOR TWP,Patrick,0,0,0.0
-Fayette,BETHEL-WINDSOR TWP,Sanders,8,8,0.12
+Fayette,BETHEL-WINDSOR TWP,Sanders,5,8,0.12
 Fayette,BETHEL-WINDSOR TWP,Steyer,0,0,0.0
 Fayette,BETHEL-WINDSOR TWP,Uncommitted,0,0,0.0
-Fayette,BETHEL-WINDSOR TWP,Warren,9,9,0.12
+Fayette,BETHEL-WINDSOR TWP,Warren,8,9,0.12
 Fayette,BETHEL-WINDSOR TWP,Yang,0,0,0.0
 Fayette,CENTER TWP,Bennet,0,0,0.0
 Fayette,CENTER TWP,Biden,2,2,0.0
@@ -7630,18 +7630,18 @@ Fayette,FAIRFIELD-PUTNAM TWP,Uncommitted,0,0,0.0
 Fayette,FAIRFIELD-PUTNAM TWP,Warren,0,0,0.0
 Fayette,FAIRFIELD-PUTNAM TWP,Yang,0,0,0.0
 Fayette,HARLAN TWP,Bennet,0,0,0.0
-Fayette,HARLAN TWP,Biden,1,1,0.12
+Fayette,HARLAN TWP,Biden,13,16,0.12
 Fayette,HARLAN TWP,Bloomberg,0,0,0.0
-Fayette,HARLAN TWP,Buttigieg,3,3,0.36
+Fayette,HARLAN TWP,Buttigieg,26,31,0.36
 Fayette,HARLAN TWP,Delaney,0,0,0.0
 Fayette,HARLAN TWP,Gabbard,0,0,0.0
-Fayette,HARLAN TWP,Klobuchar,0,0,0.0
+Fayette,HARLAN TWP,Klobuchar,6,0,0.0
 Fayette,HARLAN TWP,Other,0,0,0.0
 Fayette,HARLAN TWP,Patrick,0,0,0.0
-Fayette,HARLAN TWP,Sanders,0,0,0.0
+Fayette,HARLAN TWP,Sanders,1,0,0.0
 Fayette,HARLAN TWP,Steyer,0,0,0.0
-Fayette,HARLAN TWP,Uncommitted,0,0,0.0
-Fayette,HARLAN TWP,Warren,0,0,0.0
+Fayette,HARLAN TWP,Uncommitted,0,1,0.0
+Fayette,HARLAN TWP,Warren,2,0,0.0
 Fayette,HARLAN TWP,Yang,0,0,0.0
 Fayette,ILLYRIA TWP,Bennet,0,0,0.0
 Fayette,ILLYRIA TWP,Biden,1,0,0.0
@@ -7812,7 +7812,7 @@ Fayette,WEST UNION - WARD 1,Uncommitted,1,0,0.0
 Fayette,WEST UNION - WARD 1,Warren,4,6,0.12
 Fayette,WEST UNION - WARD 1,Yang,6,7,0.12
 Fayette,WEST UNION - WARD 2,Bennet,0,0,0.0
-Fayette,WEST UNION - WARD 2,Biden,3,0,0.0
+Fayette,WEST UNION - WARD 2,Biden,3,4,0.0
 Fayette,WEST UNION - WARD 2,Bloomberg,0,0,0.0
 Fayette,WEST UNION - WARD 2,Buttigieg,7,10,0.24
 Fayette,WEST UNION - WARD 2,Delaney,0,0,0.0
@@ -9114,19 +9114,19 @@ Henry,Mt. Pleasant Ward 3,Uncommitted,2,0,0.0
 Henry,Mt. Pleasant Ward 3,Warren,14,14,0.2
 Henry,Mt. Pleasant Ward 3,Yang,2,0,0.0
 Henry,Mt. Pleasant Ward 4,Bennet,0,0,0.0
-Henry,Mt. Pleasant Ward 4,Biden,3,0,0.0
-Henry,Mt. Pleasant Ward 4,Bloomberg,1,0,0.0
-Henry,Mt. Pleasant Ward 4,Buttigieg,19,24,0.4667
+Henry,Mt. Pleasant Ward 4,Biden,5,0,0.0
+Henry,Mt. Pleasant Ward 4,Bloomberg,0,0,0.0
+Henry,Mt. Pleasant Ward 4,Buttigieg,30,39,0.4667
 Henry,Mt. Pleasant Ward 4,Delaney,0,0,0.0
 Henry,Mt. Pleasant Ward 4,Gabbard,0,0,0.0
-Henry,Mt. Pleasant Ward 4,Klobuchar,0,0,0.0
+Henry,Mt. Pleasant Ward 4,Klobuchar,7,0,0.0
 Henry,Mt. Pleasant Ward 4,Other,0,0,0.0
 Henry,Mt. Pleasant Ward 4,Patrick,0,0,0.0
-Henry,Mt. Pleasant Ward 4,Sanders,12,12,0.2
+Henry,Mt. Pleasant Ward 4,Sanders,16,20,0.2667
 Henry,Mt. Pleasant Ward 4,Steyer,0,0,0.0
-Henry,Mt. Pleasant Ward 4,Uncommitted,0,0,0.0
-Henry,Mt. Pleasant Ward 4,Warren,5,0,0.0
-Henry,Mt. Pleasant Ward 4,Yang,8,9,0.2
+Henry,Mt. Pleasant Ward 4,Uncommitted,5,0,0.0
+Henry,Mt. Pleasant Ward 4,Warren,7,0,0.0
+Henry,Mt. Pleasant Ward 4,Yang,6,0,0.0
 Henry,Northeast Precinct,Bennet,0,0,0.0
 Henry,Northeast Precinct,Biden,3,3,0.0
 Henry,Northeast Precinct,Bloomberg,1,0,0.0
@@ -10360,18 +10360,18 @@ Jefferson,Penn-Pleasant Plain,Uncommitted,1,1,0.2182
 Jefferson,Penn-Pleasant Plain,Warren,3,3,0.0
 Jefferson,Penn-Pleasant Plain,Yang,0,0,0.0
 Johnson,BIG GROVE TOWNSHIP,Bennet,1,0,0.0
-Johnson,BIG GROVE TOWNSHIP,Biden,26,29,0.81
+Johnson,BIG GROVE TOWNSHIP,Biden,26,29,0.405
 Johnson,BIG GROVE TOWNSHIP,Bloomberg,2,0,0.0
-Johnson,BIG GROVE TOWNSHIP,Buttigieg,35,0,0.0
+Johnson,BIG GROVE TOWNSHIP,Buttigieg,35,35,0.405
 Johnson,BIG GROVE TOWNSHIP,Delaney,0,0,0.0
 Johnson,BIG GROVE TOWNSHIP,Gabbard,0,0,0.0
-Johnson,BIG GROVE TOWNSHIP,Klobuchar,34,39,0.81
+Johnson,BIG GROVE TOWNSHIP,Klobuchar,34,39,0.405
 Johnson,BIG GROVE TOWNSHIP,Other,0,0,0.0
 Johnson,BIG GROVE TOWNSHIP,Patrick,0,0,0.0
 Johnson,BIG GROVE TOWNSHIP,Sanders,23,0,0.0
 Johnson,BIG GROVE TOWNSHIP,Steyer,4,0,0.0
 Johnson,BIG GROVE TOWNSHIP,Uncommitted,0,0,0.0
-Johnson,BIG GROVE TOWNSHIP,Warren,39,0,0.0
+Johnson,BIG GROVE TOWNSHIP,Warren,39,39,0.405
 Johnson,BIG GROVE TOWNSHIP,Yang,3,0,0.0
 Johnson,CEDAR TOWNSHIP,Bennet,1,0,0.0
 Johnson,CEDAR TOWNSHIP,Biden,5,3,0.0
@@ -10660,7 +10660,7 @@ Johnson,IOWA CITY 08,Buttigieg,105,121,1.215
 Johnson,IOWA CITY 08,Delaney,0,0,0.0
 Johnson,IOWA CITY 08,Gabbard,0,0,0.0
 Johnson,IOWA CITY 08,Klobuchar,93,114,0.81
-Johnson,IOWA CITY 08,Other,0,0,0.0
+Johnson,IOWA CITY 08,Other,1,0,0.0
 Johnson,IOWA CITY 08,Patrick,0,0,0.0
 Johnson,IOWA CITY 08,Sanders,78,91,0.81
 Johnson,IOWA CITY 08,Steyer,1,0,0.0
@@ -10883,7 +10883,7 @@ Johnson,IOWA CITY 24,Bloomberg,0,0,0.0
 Johnson,IOWA CITY 24,Buttigieg,172,211,1.62
 Johnson,IOWA CITY 24,Delaney,0,0,0.0
 Johnson,IOWA CITY 24,Gabbard,2,0,0.0
-Johnson,IOWA CITY 24,Klobuchar,25,0,0.0
+Johnson,IOWA CITY 24,Klobuchar,75,0,0.0
 Johnson,IOWA CITY 24,Other,0,0,0.0
 Johnson,IOWA CITY 24,Patrick,0,0,0.0
 Johnson,IOWA CITY 24,Sanders,117,125,1.215
@@ -13199,7 +13199,7 @@ Linn,Monroe 1,Patrick,0,0,0.0
 Linn,Monroe 1,Sanders,3,0,0.0
 Linn,Monroe 1,Steyer,4,0,0.0
 Linn,Monroe 1,Uncommitted,3,0,0.0
-Linn,Monroe 1,Warren,16,0,0.0
+Linn,Monroe 1,Warren,16,21,0.0
 Linn,Monroe 1,Yang,0,0,0.0
 Linn,Monroe 2,Bennet,0,0,0.0
 Linn,Monroe 2,Biden,23,30,0.4395
@@ -14366,14 +14366,14 @@ Marshall,TAYLOR,Yang,3,0,0.0
 Marshall,TIMBER CREEK,Bennet,0,0,0.0
 Marshall,TIMBER CREEK,Biden,9,9,0.16
 Marshall,TIMBER CREEK,Bloomberg,0,0,0.0
-Marshall,TIMBER CREEK,Buttigieg,7,7,0.16
+Marshall,TIMBER CREEK,Buttigieg,7,12,0.16
 Marshall,TIMBER CREEK,Delaney,0,0,0.0
 Marshall,TIMBER CREEK,Gabbard,0,0,0.0
-Marshall,TIMBER CREEK,Klobuchar,7,7,0.16
+Marshall,TIMBER CREEK,Klobuchar,7,8,0.16
 Marshall,TIMBER CREEK,Other,0,0,0.0
 Marshall,TIMBER CREEK,Patrick,0,0,0.0
 Marshall,TIMBER CREEK,Sanders,5,0,0.0
-Marshall,TIMBER CREEK,Steyer,6,6,0.16
+Marshall,TIMBER CREEK,Steyer,6,7,0.16
 Marshall,TIMBER CREEK,Uncommitted,0,0,0.0
 Marshall,TIMBER CREEK,Warren,2,0,0.0
 Marshall,TIMBER CREEK,Yang,0,0,0.0
@@ -15152,14 +15152,14 @@ Muscatine,Muscatine 03rd,Biden,15,17,0.3333
 Muscatine,Muscatine 03rd,Bloomberg,0,0,0.0
 Muscatine,Muscatine 03rd,Buttigieg,13,15,0.1667
 Muscatine,Muscatine 03rd,Delaney,0,0,0.0
-Muscatine,Muscatine 03rd,Gabbard,1,1,0.0
-Muscatine,Muscatine 03rd,Klobuchar,6,0,0.0
+Muscatine,Muscatine 03rd,Gabbard,1,0,0.0
+Muscatine,Muscatine 03rd,Klobuchar,0,0,0.0
 Muscatine,Muscatine 03rd,Other,0,0,0.0
 Muscatine,Muscatine 03rd,Patrick,0,0,0.0
 Muscatine,Muscatine 03rd,Sanders,30,33,0.5
 Muscatine,Muscatine 03rd,Steyer,1,0,0.0
 Muscatine,Muscatine 03rd,Uncommitted,0,0,0.0
-Muscatine,Muscatine 03rd,Warren,9,15,0.1667
+Muscatine,Muscatine 03rd,Warren,9,15,0.3333
 Muscatine,Muscatine 03rd,Yang,6,0,0.0
 Muscatine,Muscatine 04th,Bennet,0,0,0.0
 Muscatine,Muscatine 04th,Biden,0,0,0.0
@@ -15220,7 +15220,7 @@ Muscatine,Muscatine 07th,Yang,1,0,0.0
 Muscatine,Muscatine 08th,Bennet,0,0,0.0
 Muscatine,Muscatine 08th,Biden,7,10,0.3333
 Muscatine,Muscatine 08th,Bloomberg,0,0,0.0
-Muscatine,Muscatine 08th,Buttigieg,8,8,0.3333
+Muscatine,Muscatine 08th,Buttigieg,8,8,0.1667
 Muscatine,Muscatine 08th,Delaney,0,0,0.0
 Muscatine,Muscatine 08th,Gabbard,0,0,0.0
 Muscatine,Muscatine 08th,Klobuchar,0,0,0.0
@@ -15230,7 +15230,7 @@ Muscatine,Muscatine 08th,Sanders,17,23,0.5
 Muscatine,Muscatine 08th,Steyer,0,0,0.0
 Muscatine,Muscatine 08th,Uncommitted,0,0,0.0
 Muscatine,Muscatine 08th,Warren,6,0,0.0
-Muscatine,Muscatine 08th,Yang,4,1,0.1667
+Muscatine,Muscatine 08th,Yang,4,1,0.0
 Muscatine,Muscatine 09th,Bennet,0,0,0.0
 Muscatine,Muscatine 09th,Biden,26,26,0.3333
 Muscatine,Muscatine 09th,Bloomberg,0,0,0.0
@@ -15240,7 +15240,7 @@ Muscatine,Muscatine 09th,Gabbard,0,0,0.0
 Muscatine,Muscatine 09th,Klobuchar,0,0,0.0
 Muscatine,Muscatine 09th,Other,0,0,0.0
 Muscatine,Muscatine 09th,Patrick,0,0,0.0
-Muscatine,Muscatine 09th,Sanders,44,44,0.5
+Muscatine,Muscatine 09th,Sanders,44,44,0.6667
 Muscatine,Muscatine 09th,Steyer,0,0,0.0
 Muscatine,Muscatine 09th,Uncommitted,0,0,0.0
 Muscatine,Muscatine 09th,Warren,0,0,0.0
@@ -16026,7 +16026,7 @@ Page,Clarinda Ward 2,Other,0,0,0.0
 Page,Clarinda Ward 2,Patrick,0,0,0.0
 Page,Clarinda Ward 2,Sanders,24,27,0.48
 Page,Clarinda Ward 2,Steyer,0,0,0.0
-Page,Clarinda Ward 2,Uncommitted,3,0,0.0
+Page,Clarinda Ward 2,Uncommitted,2,0,0.0
 Page,Clarinda Ward 2,Warren,9,0,0.0
 Page,Clarinda Ward 2,Yang,4,5,0.0
 Page,Cx-Gr-Linc-Mort-Tarkio-Wash-Blan-Coin-Nboro,Bennet,0,0,0.0
@@ -16256,15 +16256,15 @@ Plymouth,Plymouth 05/Rm,Yang,0,0,0.0
 Plymouth,Plymouth 06/Wf,Bennet,0,0,0.0
 Plymouth,Plymouth 06/Wf,Biden,4,4,0.0
 Plymouth,Plymouth 06/Wf,Bloomberg,0,0,0.0
-Plymouth,Plymouth 06/Wf,Buttigieg,6,6,0.0
+Plymouth,Plymouth 06/Wf,Buttigieg,6,6,0.225
 Plymouth,Plymouth 06/Wf,Delaney,0,0,0.0
 Plymouth,Plymouth 06/Wf,Gabbard,0,0,0.0
 Plymouth,Plymouth 06/Wf,Klobuchar,5,5,0.0
 Plymouth,Plymouth 06/Wf,Other,0,0,0.0
 Plymouth,Plymouth 06/Wf,Patrick,0,0,0.0
-Plymouth,Plymouth 06/Wf,Sanders,0,0,0.0
+Plymouth,Plymouth 06/Wf,Sanders,3,3,0.0
 Plymouth,Plymouth 06/Wf,Steyer,3,3,0.0
-Plymouth,Plymouth 06/Wf,Uncommitted,0,0,0.225
+Plymouth,Plymouth 06/Wf,Uncommitted,0,0,0.0
 Plymouth,Plymouth 06/Wf,Warren,0,0,0.0
 Plymouth,Plymouth 06/Wf,Yang,0,0,0.0
 Plymouth,Plymouth 07/Mr,Bennet,0,0,0.0
@@ -17251,7 +17251,7 @@ Polk,DES MOINES-24,Bennet,0,0,0.0
 Polk,DES MOINES-24,Biden,15,15,0.2798
 Polk,DES MOINES-24,Bloomberg,0,0,0.0
 Polk,DES MOINES-24,Buttigieg,16,18,0.2798
-Polk,DES MOINES-24,Delaney,1,0,0.0
+Polk,DES MOINES-24,Delaney,0,0,0.0
 Polk,DES MOINES-24,Gabbard,0,0,0.0
 Polk,DES MOINES-24,Klobuchar,8,12,0.2798
 Polk,DES MOINES-24,Other,0,0,0.0
@@ -17503,7 +17503,7 @@ Polk,DES MOINES-42,Bennet,1,0,0.0
 Polk,DES MOINES-42,Biden,23,0,0.0
 Polk,DES MOINES-42,Bloomberg,0,0,0.0
 Polk,DES MOINES-42,Buttigieg,71,104,1.1192
-Polk,DES MOINES-42,Delaney,9,0,0.0
+Polk,DES MOINES-42,Delaney,0,0,0.0
 Polk,DES MOINES-42,Gabbard,2,0,0.0
 Polk,DES MOINES-42,Klobuchar,37,0,0.0
 Polk,DES MOINES-42,Other,1,0,0.0
@@ -17692,9 +17692,9 @@ Polk,DES MOINES-55,Other,0,0,0.0
 Polk,DES MOINES-55,Patrick,0,0,0.0
 Polk,DES MOINES-55,Sanders,191,218,1.399
 Polk,DES MOINES-55,Steyer,0,0,0.0
-Polk,DES MOINES-55,Uncommitted,0,0,0.0
+Polk,DES MOINES-55,Uncommitted,8,31,0.0
 Polk,DES MOINES-55,Warren,171,208,1.1192
-Polk,DES MOINES-55,Yang,0,0,0.0
+Polk,DES MOINES-55,Yang,65,0,0.0
 Polk,DES MOINES-56,Bennet,0,0,0.0
 Polk,DES MOINES-56,Biden,51,0,0.0
 Polk,DES MOINES-56,Bloomberg,1,0,0.0
@@ -17784,15 +17784,15 @@ Polk,DES MOINES-62,Biden,131,138,0.8394
 Polk,DES MOINES-62,Bloomberg,0,0,0.0
 Polk,DES MOINES-62,Buttigieg,172,194,1.1192
 Polk,DES MOINES-62,Delaney,0,0,0.0
-Polk,DES MOINES-62,Gabbard,0,0,0.0
-Polk,DES MOINES-62,Klobuchar,140,149,0.8394
+Polk,DES MOINES-62,Gabbard,2,0,0.0
+Polk,DES MOINES-62,Klobuchar,140,149,1.1192
 Polk,DES MOINES-62,Other,0,0,0.0
 Polk,DES MOINES-62,Patrick,0,0,0.0
 Polk,DES MOINES-62,Sanders,129,134,0.8394
-Polk,DES MOINES-62,Steyer,0,0,0.0
-Polk,DES MOINES-62,Uncommitted,0,0,0.0
-Polk,DES MOINES-62,Warren,212,226,1.399
-Polk,DES MOINES-62,Yang,0,0,0.0
+Polk,DES MOINES-62,Steyer,26,0,0.0
+Polk,DES MOINES-62,Uncommitted,7,0,0.0
+Polk,DES MOINES-62,Warren,212,227,1.399
+Polk,DES MOINES-62,Yang,28,0,0.0
 Polk,DES MOINES-63,Bennet,0,0,0.0
 Polk,DES MOINES-63,Biden,70,71,0.5596
 Polk,DES MOINES-63,Bloomberg,1,0,0.0
@@ -17916,8 +17916,8 @@ Polk,DES MOINES-71,Other,0,0,0.0
 Polk,DES MOINES-71,Patrick,0,0,0.0
 Polk,DES MOINES-71,Sanders,58,62,0.8394
 Polk,DES MOINES-71,Steyer,7,0,0.0
-Polk,DES MOINES-71,Uncommitted,0,0,0.0
-Polk,DES MOINES-71,Warren,20,28,0.2798
+Polk,DES MOINES-71,Uncommitted,1,0,0.0
+Polk,DES MOINES-71,Warren,20,28,0.5596
 Polk,DES MOINES-71,Yang,13,0,0.0
 Polk,DES MOINES-72,Bennet,0,0,0.0
 Polk,DES MOINES-72,Biden,3,3,0.2798
@@ -18997,62 +18997,6 @@ Pottawattamie,Carter Lake 2,Steyer,0,0,0.0
 Pottawattamie,Carter Lake 2,Uncommitted,0,0,0.0
 Pottawattamie,Carter Lake 2,Warren,7,8,0.12
 Pottawattamie,Carter Lake 2,Yang,8,9,0.24
-Pottawattamie,Council Bluff  04,Bennet,0,0,0.0
-Pottawattamie,Council Bluff  04,Biden,16,17,0.36
-Pottawattamie,Council Bluff  04,Bloomberg,0,0,0.0
-Pottawattamie,Council Bluff  04,Buttigieg,19,19,0.36
-Pottawattamie,Council Bluff  04,Delaney,0,0,0.0
-Pottawattamie,Council Bluff  04,Gabbard,0,0,0.0
-Pottawattamie,Council Bluff  04,Klobuchar,5,0,0.0
-Pottawattamie,Council Bluff  04,Other,1,0,0.0
-Pottawattamie,Council Bluff  04,Patrick,0,0,0.0
-Pottawattamie,Council Bluff  04,Sanders,17,17,0.24
-Pottawattamie,Council Bluff  04,Steyer,1,3,0.0
-Pottawattamie,Council Bluff  04,Uncommitted,0,0,0.0
-Pottawattamie,Council Bluff  04,Warren,5,11,0.24
-Pottawattamie,Council Bluff  04,Yang,3,0,0.0
-Pottawattamie,Council Bluff  11,Bennet,0,0,0.0
-Pottawattamie,Council Bluff  11,Biden,22,0,0.0
-Pottawattamie,Council Bluff  11,Bloomberg,1,0,0.0
-Pottawattamie,Council Bluff  11,Buttigieg,42,54,0.6
-Pottawattamie,Council Bluff  11,Delaney,0,0,0.0
-Pottawattamie,Council Bluff  11,Gabbard,1,0,0.0
-Pottawattamie,Council Bluff  11,Klobuchar,18,0,0.0
-Pottawattamie,Council Bluff  11,Other,0,0,0.0
-Pottawattamie,Council Bluff  11,Patrick,1,0,0.0
-Pottawattamie,Council Bluff  11,Sanders,51,55,0.6
-Pottawattamie,Council Bluff  11,Steyer,0,0,0.0
-Pottawattamie,Council Bluff  11,Uncommitted,1,0,0.0
-Pottawattamie,Council Bluff  11,Warren,32,44,0.48
-Pottawattamie,Council Bluff  11,Yang,17,28,0.36
-Pottawattamie,Council Bluff  16,Bennet,0,0,0.0
-Pottawattamie,Council Bluff  16,Biden,10,10,0.24
-Pottawattamie,Council Bluff  16,Bloomberg,0,0,0.0
-Pottawattamie,Council Bluff  16,Buttigieg,11,11,0.24
-Pottawattamie,Council Bluff  16,Delaney,0,0,0.0
-Pottawattamie,Council Bluff  16,Gabbard,0,0,0.0
-Pottawattamie,Council Bluff  16,Klobuchar,0,0,0.0
-Pottawattamie,Council Bluff  16,Other,0,0,0.0
-Pottawattamie,Council Bluff  16,Patrick,0,0,0.0
-Pottawattamie,Council Bluff  16,Sanders,21,23,0.48
-Pottawattamie,Council Bluff  16,Steyer,0,0,0.0
-Pottawattamie,Council Bluff  16,Uncommitted,0,0,0.0
-Pottawattamie,Council Bluff  16,Warren,15,17,0.36
-Pottawattamie,Council Bluff  16,Yang,5,0,0.0
-Pottawattamie,Council Bluff  20,Bennet,0,0,0.0
-Pottawattamie,Council Bluff  20,Biden,7,0,0.0
-Pottawattamie,Council Bluff  20,Bloomberg,0,0,0.0
-Pottawattamie,Council Bluff  20,Buttigieg,18,23,0.36
-Pottawattamie,Council Bluff  20,Delaney,0,0,0.0
-Pottawattamie,Council Bluff  20,Gabbard,0,0,0.0
-Pottawattamie,Council Bluff  20,Klobuchar,8,0,0.0
-Pottawattamie,Council Bluff  20,Other,0,0,0.0
-Pottawattamie,Council Bluff  20,Patrick,0,0,0.0
-Pottawattamie,Council Bluff  20,Sanders,14,16,0.24
-Pottawattamie,Council Bluff  20,Steyer,7,0,0.0
-Pottawattamie,Council Bluff  20,Uncommitted,0,0,0.0
-Pottawattamie,Council Bluff  20,Warren,13,14,0.24
-Pottawattamie,Council Bluff  20,Yang,15,16,0.24
 Pottawattamie,Council Bluff 01,Bennet,0,0,0.0
 Pottawattamie,Council Bluff 01,Biden,9,12,0.24
 Pottawattamie,Council Bluff 01,Bloomberg,0,0,0.0
@@ -19095,6 +19039,20 @@ Pottawattamie,Council Bluff 03,Steyer,1,0,0.0
 Pottawattamie,Council Bluff 03,Uncommitted,0,0,0.0
 Pottawattamie,Council Bluff 03,Warren,7,9,0.24
 Pottawattamie,Council Bluff 03,Yang,5,8,0.24
+Pottawattamie,Council Bluff 04,Bennet,0,0,0.0
+Pottawattamie,Council Bluff 04,Biden,16,17,0.36
+Pottawattamie,Council Bluff 04,Bloomberg,0,0,0.0
+Pottawattamie,Council Bluff 04,Buttigieg,19,19,0.36
+Pottawattamie,Council Bluff 04,Delaney,0,0,0.0
+Pottawattamie,Council Bluff 04,Gabbard,0,0,0.0
+Pottawattamie,Council Bluff 04,Klobuchar,5,0,0.0
+Pottawattamie,Council Bluff 04,Other,0,0,0.0
+Pottawattamie,Council Bluff 04,Patrick,0,0,0.0
+Pottawattamie,Council Bluff 04,Sanders,16,17,0.24
+Pottawattamie,Council Bluff 04,Steyer,3,3,0.0
+Pottawattamie,Council Bluff 04,Uncommitted,0,0,0.0
+Pottawattamie,Council Bluff 04,Warren,5,11,0.24
+Pottawattamie,Council Bluff 04,Yang,3,0,0.0
 Pottawattamie,Council Bluff 05,Bennet,0,0,0.0
 Pottawattamie,Council Bluff 05,Biden,14,14,0.24
 Pottawattamie,Council Bluff 05,Bloomberg,0,0,0.0
@@ -19193,6 +19151,20 @@ Pottawattamie,Council Bluff 10B,Steyer,0,0,0.0
 Pottawattamie,Council Bluff 10B,Uncommitted,2,0,0.0
 Pottawattamie,Council Bluff 10B,Warren,18,27,0.36
 Pottawattamie,Council Bluff 10B,Yang,3,0,0.0
+Pottawattamie,Council Bluff 11,Bennet,0,0,0.0
+Pottawattamie,Council Bluff 11,Biden,22,0,0.0
+Pottawattamie,Council Bluff 11,Bloomberg,1,0,0.0
+Pottawattamie,Council Bluff 11,Buttigieg,42,54,0.6
+Pottawattamie,Council Bluff 11,Delaney,0,0,0.0
+Pottawattamie,Council Bluff 11,Gabbard,1,0,0.0
+Pottawattamie,Council Bluff 11,Klobuchar,18,0,0.0
+Pottawattamie,Council Bluff 11,Other,0,0,0.0
+Pottawattamie,Council Bluff 11,Patrick,1,0,0.0
+Pottawattamie,Council Bluff 11,Sanders,51,55,0.6
+Pottawattamie,Council Bluff 11,Steyer,0,0,0.0
+Pottawattamie,Council Bluff 11,Uncommitted,1,0,0.0
+Pottawattamie,Council Bluff 11,Warren,32,44,0.48
+Pottawattamie,Council Bluff 11,Yang,17,28,0.36
 Pottawattamie,Council Bluff 12,Bennet,0,0,0.0
 Pottawattamie,Council Bluff 12,Biden,21,28,0.36
 Pottawattamie,Council Bluff 12,Bloomberg,24,0,0.0
@@ -19249,6 +19221,20 @@ Pottawattamie,Council Bluff 15,Steyer,1,0,0.0
 Pottawattamie,Council Bluff 15,Uncommitted,2,1,0.0
 Pottawattamie,Council Bluff 15,Warren,7,7,0.24
 Pottawattamie,Council Bluff 15,Yang,6,6,0.24
+Pottawattamie,Council Bluff 16,Bennet,0,0,0.0
+Pottawattamie,Council Bluff 16,Biden,10,10,0.24
+Pottawattamie,Council Bluff 16,Bloomberg,0,0,0.0
+Pottawattamie,Council Bluff 16,Buttigieg,11,11,0.24
+Pottawattamie,Council Bluff 16,Delaney,0,0,0.0
+Pottawattamie,Council Bluff 16,Gabbard,0,0,0.0
+Pottawattamie,Council Bluff 16,Klobuchar,0,0,0.0
+Pottawattamie,Council Bluff 16,Other,0,0,0.0
+Pottawattamie,Council Bluff 16,Patrick,0,0,0.0
+Pottawattamie,Council Bluff 16,Sanders,21,23,0.48
+Pottawattamie,Council Bluff 16,Steyer,0,0,0.0
+Pottawattamie,Council Bluff 16,Uncommitted,0,0,0.0
+Pottawattamie,Council Bluff 16,Warren,15,17,0.36
+Pottawattamie,Council Bluff 16,Yang,5,0,0.0
 Pottawattamie,Council Bluff 17,Bennet,0,0,0.0
 Pottawattamie,Council Bluff 17,Biden,11,19,0.36
 Pottawattamie,Council Bluff 17,Bloomberg,0,0,0.0
@@ -19291,6 +19277,20 @@ Pottawattamie,Council Bluff 19,Steyer,0,0,0.0
 Pottawattamie,Council Bluff 19,Uncommitted,0,0,0.0
 Pottawattamie,Council Bluff 19,Warren,6,1,0.0
 Pottawattamie,Council Bluff 19,Yang,0,0,0.0
+Pottawattamie,Council Bluff 20,Bennet,0,0,0.0
+Pottawattamie,Council Bluff 20,Biden,7,0,0.0
+Pottawattamie,Council Bluff 20,Bloomberg,0,0,0.0
+Pottawattamie,Council Bluff 20,Buttigieg,18,23,0.36
+Pottawattamie,Council Bluff 20,Delaney,0,0,0.0
+Pottawattamie,Council Bluff 20,Gabbard,0,0,0.0
+Pottawattamie,Council Bluff 20,Klobuchar,8,0,0.0
+Pottawattamie,Council Bluff 20,Other,0,0,0.0
+Pottawattamie,Council Bluff 20,Patrick,0,0,0.0
+Pottawattamie,Council Bluff 20,Sanders,14,16,0.24
+Pottawattamie,Council Bluff 20,Steyer,7,0,0.0
+Pottawattamie,Council Bluff 20,Uncommitted,0,0,0.0
+Pottawattamie,Council Bluff 20,Warren,13,14,0.24
+Pottawattamie,Council Bluff 20,Yang,15,16,0.24
 Pottawattamie,Council Bluff 21,Bennet,0,0,0.0
 Pottawattamie,Council Bluff 21,Biden,8,8,0.12
 Pottawattamie,Council Bluff 21,Bloomberg,0,0,0.0
@@ -19948,7 +19948,7 @@ Scott,(B23) City of Bettendorf,Sanders,6,6,0.0
 Scott,(B23) City of Bettendorf,Steyer,4,4,0.0
 Scott,(B23) City of Bettendorf,Uncommitted,0,0,0.0
 Scott,(B23) City of Bettendorf,Warren,7,7,0.0
-Scott,(B23) City of Bettendorf,Yang,0,2,0.0
+Scott,(B23) City of Bettendorf,Yang,2,2,0.0
 Scott,(B31) City of Bettendorf,Bennet,0,0,0.0
 Scott,(B31) City of Bettendorf,Biden,22,0,0.0
 Scott,(B31) City of Bettendorf,Bloomberg,0,0,0.0
@@ -20048,19 +20048,19 @@ Scott,(BF) City of Buffalo,Uncommitted,0,0,0.0
 Scott,(BF) City of Buffalo,Warren,3,3,0.0
 Scott,(BF) City of Buffalo,Yang,0,0,0.0
 Scott,(BG) Blue Grass Township,Bennet,0,0,0.0
-Scott,(BG) Blue Grass Township,Biden,18,18,0.4133
+Scott,(BG) Blue Grass Township,Biden,18,21,0.4133
 Scott,(BG) Blue Grass Township,Bloomberg,0,0,0.0
-Scott,(BG) Blue Grass Township,Buttigieg,18,18,0.4133
+Scott,(BG) Blue Grass Township,Buttigieg,31,35,0.4133
 Scott,(BG) Blue Grass Township,Delaney,0,0,0.0
-Scott,(BG) Blue Grass Township,Gabbard,0,0,0.0
-Scott,(BG) Blue Grass Township,Klobuchar,0,0,0.0
+Scott,(BG) Blue Grass Township,Gabbard,1,0,0.0
+Scott,(BG) Blue Grass Township,Klobuchar,16,20,0.4133
 Scott,(BG) Blue Grass Township,Other,0,0,0.0
 Scott,(BG) Blue Grass Township,Patrick,0,0,0.0
-Scott,(BG) Blue Grass Township,Sanders,40,40,0.8267
+Scott,(BG) Blue Grass Township,Sanders,18,22,0.4133
 Scott,(BG) Blue Grass Township,Steyer,0,0,0.0
-Scott,(BG) Blue Grass Township,Uncommitted,0,0,0.0
-Scott,(BG) Blue Grass Township,Warren,18,18,0.4133
-Scott,(BG) Blue Grass Township,Yang,0,0,0.0
+Scott,(BG) Blue Grass Township,Uncommitted,1,0,0.0
+Scott,(BG) Blue Grass Township,Warren,15,0,0.0
+Scott,(BG) Blue Grass Township,Yang,4,0,0.0
 Scott,(BU) Buffalo Township,Bennet,0,0,0.0
 Scott,(BU) Buffalo Township,Biden,21,23,0.4133
 Scott,(BU) Buffalo Township,Bloomberg,0,0,0.0
@@ -20314,19 +20314,19 @@ Scott,(D51) City of Davenport,Uncommitted,0,0,0.0
 Scott,(D51) City of Davenport,Warren,65,88,0.8267
 Scott,(D51) City of Davenport,Yang,26,13,0.0
 Scott,(D52) City of Davenport,Bennet,0,0,0.0
-Scott,(D52) City of Davenport,Biden,72,79,0.8267
-Scott,(D52) City of Davenport,Bloomberg,2,0,0.0
-Scott,(D52) City of Davenport,Buttigieg,87,111,1.24
+Scott,(D52) City of Davenport,Biden,17,0,0.0
+Scott,(D52) City of Davenport,Bloomberg,1,0,0.0
+Scott,(D52) City of Davenport,Buttigieg,41,68,0.8267
 Scott,(D52) City of Davenport,Delaney,0,0,0.0
-Scott,(D52) City of Davenport,Gabbard,0,0,0.0
-Scott,(D52) City of Davenport,Klobuchar,69,80,0.8267
+Scott,(D52) City of Davenport,Gabbard,2,0,0.0
+Scott,(D52) City of Davenport,Klobuchar,19,0,0.0
 Scott,(D52) City of Davenport,Other,0,0,0.0
 Scott,(D52) City of Davenport,Patrick,0,0,0.0
-Scott,(D52) City of Davenport,Sanders,65,81,1.24
-Scott,(D52) City of Davenport,Steyer,5,0,0.0
-Scott,(D52) City of Davenport,Uncommitted,5,0,0.0
-Scott,(D52) City of Davenport,Warren,36,0,0.0
-Scott,(D52) City of Davenport,Yang,15,0,0.0
+Scott,(D52) City of Davenport,Sanders,69,71,0.8267
+Scott,(D52) City of Davenport,Steyer,2,0,0.0
+Scott,(D52) City of Davenport,Uncommitted,0,0,0.0
+Scott,(D52) City of Davenport,Warren,61,74,0.8267
+Scott,(D52) City of Davenport,Yang,8,0,0.0
 Scott,(D53) City of Davenport,Bennet,0,0,0.0
 Scott,(D53) City of Davenport,Biden,36,47,0.4133
 Scott,(D53) City of Davenport,Bloomberg,0,0,0.0
@@ -20378,15 +20378,15 @@ Scott,(D62) City of Davenport,Gabbard,0,0,0.0
 Scott,(D62) City of Davenport,Klobuchar,49,53,0.8267
 Scott,(D62) City of Davenport,Other,0,0,0.0
 Scott,(D62) City of Davenport,Patrick,0,0,0.0
-Scott,(D62) City of Davenport,Sanders,16,15,0.0
+Scott,(D62) City of Davenport,Sanders,16,0,0.0
 Scott,(D62) City of Davenport,Steyer,0,0,0.0
-Scott,(D62) City of Davenport,Uncommitted,0,0,0.0
-Scott,(D62) City of Davenport,Warren,37,37,0.4133
+Scott,(D62) City of Davenport,Uncommitted,1,0,0.0
+Scott,(D62) City of Davenport,Warren,36,37,0.4133
 Scott,(D62) City of Davenport,Yang,16,0,0.0
 Scott,(D63) City of Davenport,Bennet,0,0,0.0
 Scott,(D63) City of Davenport,Biden,42,48,0.8267
 Scott,(D63) City of Davenport,Bloomberg,0,0,0.0
-Scott,(D63) City of Davenport,Buttigieg,16,82,0.8267
+Scott,(D63) City of Davenport,Buttigieg,60,82,0.8267
 Scott,(D63) City of Davenport,Delaney,0,0,0.0
 Scott,(D63) City of Davenport,Gabbard,0,0,0.0
 Scott,(D63) City of Davenport,Klobuchar,35,0,0.0
@@ -20580,19 +20580,19 @@ Scott,(HG) Hickory Grove Township,Uncommitted,0,0,0.0
 Scott,(HG) Hickory Grove Township,Warren,0,0,0.0
 Scott,(HG) Hickory Grove Township,Yang,2,2,0.0
 Scott,(LB) Liberty Township,Bennet,0,0,0.0
-Scott,(LB) Liberty Township,Biden,1,0,0.0
+Scott,(LB) Liberty Township,Biden,1,1,0.0
 Scott,(LB) Liberty Township,Bloomberg,0,0,0.0
-Scott,(LB) Liberty Township,Buttigieg,6,0,0.0
+Scott,(LB) Liberty Township,Buttigieg,6,6,0.0
 Scott,(LB) Liberty Township,Delaney,0,0,0.0
 Scott,(LB) Liberty Township,Gabbard,0,0,0.0
-Scott,(LB) Liberty Township,Klobuchar,3,0,0.0
+Scott,(LB) Liberty Township,Klobuchar,3,3,0.0
 Scott,(LB) Liberty Township,Other,0,0,0.0
 Scott,(LB) Liberty Township,Patrick,0,0,0.0
-Scott,(LB) Liberty Township,Sanders,5,8,0.4133
+Scott,(LB) Liberty Township,Sanders,5,5,0.4133
 Scott,(LB) Liberty Township,Steyer,0,0,0.0
 Scott,(LB) Liberty Township,Uncommitted,0,0,0.0
 Scott,(LB) Liberty Township,Warren,0,0,0.0
-Scott,(LB) Liberty Township,Yang,2,7,0.0
+Scott,(LB) Liberty Township,Yang,2,2,0.0
 Scott,(LC1) City of LeClaire,Bennet,0,0,0.0
 Scott,(LC1) City of LeClaire,Biden,13,0,0.0
 Scott,(LC1) City of LeClaire,Bloomberg,0,0,0.0
@@ -20944,18 +20944,18 @@ Sioux,Lincoln,Uncommitted,0,2,0.0
 Sioux,Lincoln,Warren,2,0,0.0
 Sioux,Lincoln,Yang,1,0,0.0
 Sioux,OC 1/Holland West,Bennet,0,0,0.0
-Sioux,OC 1/Holland West,Biden,5,0,0.0
+Sioux,OC 1/Holland West,Biden,5,1,0.0
 Sioux,OC 1/Holland West,Bloomberg,0,0,0.0
 Sioux,OC 1/Holland West,Buttigieg,20,20,0.175
 Sioux,OC 1/Holland West,Delaney,0,0,0.0
-Sioux,OC 1/Holland West,Gabbard,0,0,0.0
+Sioux,OC 1/Holland West,Gabbard,2,0,0.0
 Sioux,OC 1/Holland West,Klobuchar,12,15,0.175
 Sioux,OC 1/Holland West,Other,0,0,0.0
 Sioux,OC 1/Holland West,Patrick,0,0,0.0
 Sioux,OC 1/Holland West,Sanders,17,23,0.175
 Sioux,OC 1/Holland West,Steyer,0,0,0.0
 Sioux,OC 1/Holland West,Uncommitted,0,0,0.0
-Sioux,OC 1/Holland West,Warren,28,26,0.35
+Sioux,OC 1/Holland West,Warren,28,36,0.35
 Sioux,OC 1/Holland West,Yang,11,0,0.0
 Sioux,OC2/Holland E/NS 4-9,Bennet,0,0,0.0
 Sioux,OC2/Holland E/NS 4-9,Biden,8,0,0.0
@@ -22607,7 +22607,7 @@ Warren,GR1-DM86 CITY,Patrick,0,0,0.0
 Warren,GR1-DM86 CITY,Sanders,0,0,0.0
 Warren,GR1-DM86 CITY,Steyer,0,0,0.0
 Warren,GR1-DM86 CITY,Uncommitted,0,0,0.0
-Warren,GR1-DM86 CITY,Warren,1,0,0.0
+Warren,GR1-DM86 CITY,Warren,1,1,0.0
 Warren,GR1-DM86 CITY,Yang,0,0,0.0
 Warren,GREENFIELD 1 TWP,Bennet,1,0,0.0
 Warren,GREENFIELD 1 TWP,Biden,16,17,0.2333
@@ -22673,11 +22673,11 @@ Warren,INDIANOLA 2,Delaney,0,0,0.0
 Warren,INDIANOLA 2,Gabbard,1,0,0.0
 Warren,INDIANOLA 2,Klobuchar,30,39,0.4667
 Warren,INDIANOLA 2,Other,0,0,0.0
-Warren,INDIANOLA 2,Patrick,41,0,0.0
-Warren,INDIANOLA 2,Sanders,0,44,0.4667
-Warren,INDIANOLA 2,Steyer,50,0,0.0
+Warren,INDIANOLA 2,Patrick,0,0,0.0
+Warren,INDIANOLA 2,Sanders,41,44,0.4667
+Warren,INDIANOLA 2,Steyer,0,0,0.0
 Warren,INDIANOLA 2,Uncommitted,2,0,0.0
-Warren,INDIANOLA 2,Warren,0,51,0.4667
+Warren,INDIANOLA 2,Warren,50,51,0.4667
 Warren,INDIANOLA 2,Yang,0,0,0.0
 Warren,INDIANOLA 3,Bennet,0,0,0.0
 Warren,INDIANOLA 3,Biden,0,0,0.0
@@ -22878,16 +22878,16 @@ Warren,OTTER/ MILO,Yang,0,0,0.0
 Warren,PALMYRA TWP,Bennet,0,0,0.0
 Warren,PALMYRA TWP,Biden,0,0,0.0
 Warren,PALMYRA TWP,Bloomberg,0,0,0.0
-Warren,PALMYRA TWP,Buttigieg,12,1,0.0
+Warren,PALMYRA TWP,Buttigieg,12,12,0.2333
 Warren,PALMYRA TWP,Delaney,0,0,0.0
 Warren,PALMYRA TWP,Gabbard,0,0,0.0
-Warren,PALMYRA TWP,Klobuchar,8,0,0.0
+Warren,PALMYRA TWP,Klobuchar,8,8,0.0
 Warren,PALMYRA TWP,Other,0,0,0.0
 Warren,PALMYRA TWP,Patrick,0,0,0.0
-Warren,PALMYRA TWP,Sanders,5,0,0.0
+Warren,PALMYRA TWP,Sanders,5,5,0.0
 Warren,PALMYRA TWP,Steyer,0,0,0.0
 Warren,PALMYRA TWP,Uncommitted,0,0,0.0
-Warren,PALMYRA TWP,Warren,8,0,0.0
+Warren,PALMYRA TWP,Warren,8,8,0.0
 Warren,PALMYRA TWP,Yang,0,0,0.0
 Warren,RICHLAND/ PALMYRA,Bennet,0,0,0.0
 Warren,RICHLAND/ PALMYRA,Biden,10,11,0.2333
@@ -22976,7 +22976,7 @@ Warren,WHITE OAK TWP,Yang,0,0,0.0
 Washington,Ainsworth,Bennet,0,0,0.0
 Washington,Ainsworth,Biden,14,20,0.3714
 Washington,Ainsworth,Bloomberg,0,0,0.0
-Washington,Ainsworth,Buttigieg,14,21,0.3714
+Washington,Ainsworth,Buttigieg,21,21,0.3714
 Washington,Ainsworth,Delaney,0,0,0.0
 Washington,Ainsworth,Gabbard,0,0,0.0
 Washington,Ainsworth,Klobuchar,8,0,0.0
@@ -23046,16 +23046,16 @@ Washington,Washington Ward 1,Yang,5,0,0.0
 Washington,Washington Ward 2,Bennet,0,0,0.0
 Washington,Washington Ward 2,Biden,8,0,0.0
 Washington,Washington Ward 2,Bloomberg,0,0,0.0
-Washington,Washington Ward 2,Buttigieg,19,19,0.1857
+Washington,Washington Ward 2,Buttigieg,19,20,0.3714
 Washington,Washington Ward 2,Delaney,0,0,0.0
 Washington,Washington Ward 2,Gabbard,0,0,0.0
-Washington,Washington Ward 2,Klobuchar,10,16,0.1857
+Washington,Washington Ward 2,Klobuchar,10,15,0.1857
 Washington,Washington Ward 2,Other,0,0,0.0
 Washington,Washington Ward 2,Patrick,0,0,0.0
 Washington,Washington Ward 2,Sanders,32,35,0.5571
 Washington,Washington Ward 2,Steyer,0,0,0.0
 Washington,Washington Ward 2,Uncommitted,0,1,0.0
-Washington,Washington Ward 2,Warren,18,19,0.3714
+Washington,Washington Ward 2,Warren,18,19,0.1857
 Washington,Washington Ward 2,Yang,3,0,0.0
 Washington,Washington Ward 3,Bennet,0,0,0.0
 Washington,Washington Ward 3,Biden,17,17,0.3714
@@ -23405,7 +23405,7 @@ Webster,Fort Dodge 09,Patrick,0,0,0.0
 Webster,Fort Dodge 09,Sanders,11,13,0.3333
 Webster,Fort Dodge 09,Steyer,0,0,0.0
 Webster,Fort Dodge 09,Uncommitted,0,0,0.0
-Webster,Fort Dodge 09,Warren,7,13,0.0833
+Webster,Fort Dodge 09,Warren,7,7,0.0833
 Webster,Fort Dodge 09,Yang,4,0,0.0
 Webster,Fort Dodge 10,Bennet,1,0,0.0
 Webster,Fort Dodge 10,Biden,15,17,0.3333
@@ -23780,7 +23780,7 @@ Winneshiek,PCT 06 - DEW5 (Decorah Ward 5),Gabbard,0,0,0.0
 Winneshiek,PCT 06 - DEW5 (Decorah Ward 5),Klobuchar,38,52,0.384
 Winneshiek,PCT 06 - DEW5 (Decorah Ward 5),Other,0,0,0.0
 Winneshiek,PCT 06 - DEW5 (Decorah Ward 5),Patrick,0,0,0.0
-Winneshiek,PCT 06 - DEW5 (Decorah Ward 5),Sanders,38,0,0.256
+Winneshiek,PCT 06 - DEW5 (Decorah Ward 5),Sanders,38,40,0.256
 Winneshiek,PCT 06 - DEW5 (Decorah Ward 5),Steyer,0,0,0.0
 Winneshiek,PCT 06 - DEW5 (Decorah Ward 5),Uncommitted,0,0,0.0
 Winneshiek,PCT 06 - DEW5 (Decorah Ward 5),Warren,55,62,0.512
@@ -23965,7 +23965,7 @@ Woodbury,36 Lawton/Banner,Patrick,0,0,0.0
 Woodbury,36 Lawton/Banner,Sanders,1,0,0.0
 Woodbury,36 Lawton/Banner,Steyer,0,0,0.0
 Woodbury,36 Lawton/Banner,Uncommitted,0,0,0.0
-Woodbury,36 Lawton/Banner,Warren,6,0,0.0
+Woodbury,36 Lawton/Banner,Warren,6,7,0.0
 Woodbury,36 Lawton/Banner,Yang,0,0,0.0
 Woodbury,37 Climbing Hill/Grant/West Fork,Bennet,0,0,0.0
 Woodbury,37 Climbing Hill/Grant/West Fork,Biden,3,3,0.2125
@@ -24304,18 +24304,18 @@ Woodbury,Sioux City 16,Uncommitted,1,0,0.0
 Woodbury,Sioux City 16,Warren,7,0,0.0
 Woodbury,Sioux City 16,Yang,11,0,0.0
 Woodbury,Sioux City 17,Bennet,0,0,0.0
-Woodbury,Sioux City 17,Biden,27,27,0.425
+Woodbury,Sioux City 17,Biden,27,36,0.425
 Woodbury,Sioux City 17,Bloomberg,0,0,0.0
-Woodbury,Sioux City 17,Buttigieg,28,28,0.425
+Woodbury,Sioux City 17,Buttigieg,28,31,0.425
 Woodbury,Sioux City 17,Delaney,0,0,0.0
 Woodbury,Sioux City 17,Gabbard,0,0,0.0
 Woodbury,Sioux City 17,Klobuchar,12,0,0.0
 Woodbury,Sioux City 17,Other,0,0,0.0
 Woodbury,Sioux City 17,Patrick,0,0,0.0
-Woodbury,Sioux City 17,Sanders,40,40,0.6375
+Woodbury,Sioux City 17,Sanders,40,45,0.6375
 Woodbury,Sioux City 17,Steyer,7,0,0.0
-Woodbury,Sioux City 17,Uncommitted,1,0,0.0
-Woodbury,Sioux City 17,Warren,25,25,0.425
+Woodbury,Sioux City 17,Uncommitted,1,1,0.0
+Woodbury,Sioux City 17,Warren,25,33,0.425
 Woodbury,Sioux City 17,Yang,6,0,0.0
 Woodbury,Sioux City 18,Bennet,0,0,0.0
 Woodbury,Sioux City 18,Biden,25,26,0.425
@@ -24346,18 +24346,18 @@ Woodbury,Sioux City 19,Uncommitted,0,0,0.0
 Woodbury,Sioux City 19,Warren,16,0,0.0
 Woodbury,Sioux City 19,Yang,5,0,0.0
 Woodbury,Sioux City 20,Bennet,0,0,0.0
-Woodbury,Sioux City 20,Biden,38,41,0.85
+Woodbury,Sioux City 20,Biden,14,14,0.2125
 Woodbury,Sioux City 20,Bloomberg,0,0,0.0
-Woodbury,Sioux City 20,Buttigieg,15,25,0.425
+Woodbury,Sioux City 20,Buttigieg,0,0,0.0
 Woodbury,Sioux City 20,Delaney,0,0,0.0
 Woodbury,Sioux City 20,Gabbard,0,0,0.0
-Woodbury,Sioux City 20,Klobuchar,4,0,0.0
+Woodbury,Sioux City 20,Klobuchar,0,0,0.0
 Woodbury,Sioux City 20,Other,0,0,0.0
 Woodbury,Sioux City 20,Patrick,0,0,0.0
-Woodbury,Sioux City 20,Sanders,27,32,0.6375
-Woodbury,Sioux City 20,Steyer,2,0,0.0
+Woodbury,Sioux City 20,Sanders,35,35,0.6375
+Woodbury,Sioux City 20,Steyer,0,0,0.0
 Woodbury,Sioux City 20,Uncommitted,0,0,0.0
-Woodbury,Sioux City 20,Warren,12,0,0.0
+Woodbury,Sioux City 20,Warren,13,13,0.2125
 Woodbury,Sioux City 20,Yang,0,0,0.0
 Woodbury,Sioux City 21,Bennet,0,0,0.0
 Woodbury,Sioux City 21,Biden,5,0,0.0
@@ -24481,7 +24481,7 @@ Worth,Barton/Deer Creek/Union/Grafton,Klobuchar,7,8,0.2667
 Worth,Barton/Deer Creek/Union/Grafton,Other,0,0,0.0
 Worth,Barton/Deer Creek/Union/Grafton,Patrick,0,0,0.0
 Worth,Barton/Deer Creek/Union/Grafton,Sanders,5,5,0.1333
-Worth,Barton/Deer Creek/Union/Grafton,Steyer,2,0,0.0
+Worth,Barton/Deer Creek/Union/Grafton,Steyer,0,0,0.0
 Worth,Barton/Deer Creek/Union/Grafton,Uncommitted,0,0,0.0
 Worth,Barton/Deer Creek/Union/Grafton,Warren,1,0,0.0
 Worth,Barton/Deer Creek/Union/Grafton,Yang,1,0,0.0
@@ -24634,7 +24634,7 @@ Wright,Eagle Grove #2,Gabbard,0,0,0.0
 Wright,Eagle Grove #2,Klobuchar,0,0,0.0
 Wright,Eagle Grove #2,Other,0,0,0.0
 Wright,Eagle Grove #2,Patrick,0,0,0.0
-Wright,Eagle Grove #2,Sanders,0,0,0.0
+Wright,Eagle Grove #2,Sanders,1,0,0.0
 Wright,Eagle Grove #2,Steyer,0,0,0.0
 Wright,Eagle Grove #2,Uncommitted,0,1,0.0
 Wright,Eagle Grove #2,Warren,0,0,0.0
